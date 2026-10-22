@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/palakbhati/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/palakbhati/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palakbhati/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/palakbhati/DSA/tree/master/0136-single-number) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/palakbhati/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/palakbhati/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/palakbhati/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/palakbhati/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/palakbhati/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/palakbhati/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/palakbhati/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/palakbhati/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/palakbhati/DSA/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/palakbhati/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
